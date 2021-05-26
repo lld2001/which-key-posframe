@@ -175,7 +175,7 @@ of the buffer text to be displayed in the popup"
 (provide 'which-key-posframe)
 
 ;; Local Variables:
-;; coding: utf-8-unix
+;; coding: utf-8
 ;; End:
 
 ;;; which-key-posframe.el ends here
